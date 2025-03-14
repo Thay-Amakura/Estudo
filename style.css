@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -22,11 +24,12 @@ body {
 }
 
 .apresentacao__conteudo {
-    width: 550px;
+    width: 615px;
 }
 
 .apresentacao__conteudo__titulo {
     font-size: 36px;
+    font-family: 'Krona One', sans-serif;
 }
 
 .apresentacao__conteudo__paragrafo {
