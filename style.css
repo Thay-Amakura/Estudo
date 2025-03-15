@@ -11,12 +11,13 @@ body {
     color: #F6F6F6;
 }
 
-.cabecalho{
+.cabecalho {
     padding: 2% 0% 0% 15%;
 
 }
 
 .cabecalho__menu {
+    display: flex;
     gap: 80px;
 }
 
