@@ -12,19 +12,23 @@ body {
 }
 
 .cabecalho{
+    padding: 2% 0% 0% 15%;
 
+}
+
+.cabecalho__menu {
+    gap: 80px;
 }
 
 .cabecalho__link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
     
 }
 
-.titulo-destaque {
-    color: bisque;
-}
-
 .apresentacao {
-    padding: 8% 15%;
+    padding: 5% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -40,6 +44,10 @@ body {
 .apresentacao__conteudo__titulo {
     font-size: 36px;
     font-family: 'Krona One', sans-serif;
+}
+
+.titulo-destaque {
+    color: bisque;
 }
 
 .apresentacao__conteudo__paragrafo {
