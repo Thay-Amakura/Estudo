@@ -67,7 +67,12 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-img {
+.apresentacao__logo {
+    width: 32px;
+    height: 32px;
+}
+
+.apresentacao__perfil {
     width: 488px;
     height: 550px;
 }
