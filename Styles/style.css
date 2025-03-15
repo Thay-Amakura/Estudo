@@ -99,6 +99,11 @@ body {
 .apresentacao__links__botoes:hover {
     background-color: var(--bisque);
 }
+.apresentacao__linkedin {
+    width: 35px;
+    height: 35px;
+}
+
 
 .apresentacao__logo {
     width: 32px;
