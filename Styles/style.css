@@ -46,7 +46,7 @@ body {
 }
 
 .apresentacao__conteudo {
-    width: 615px;
+    width: 50%;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -85,7 +85,7 @@ body {
     justify-content: center;
     gap: 16px;
     border: 2px solid var(--bisque);
-    width: 378px;
+    width: 50%;
     text-align: center;
     border-radius: 8px;
     font-size: 1.5rem;
@@ -111,8 +111,8 @@ body {
 }
 
 .apresentacao__perfil {
-    width: 488px;
-    height: 550px;
+    width: 50%;
+    height: 45%;
 }
 
 .rodape {
