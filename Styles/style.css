@@ -24,8 +24,9 @@ body {
 .cabecalho__link {
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
-    font-weight: 400;
-    
+    font-weight: 600;
+    color: bisque;
+    text-decoration: none;
 }
 
 .apresentacao {
