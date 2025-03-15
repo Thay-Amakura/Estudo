@@ -55,6 +55,9 @@ body {
 }
 
 .apresentacao__links__botoes {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     border: 2px solid bisque;
     width: 378px;
     text-align: center;
