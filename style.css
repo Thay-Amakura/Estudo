@@ -6,7 +6,6 @@
 }
 
 body {
-    height: 100vh;
     box-sizing: border-box;
     background-color: black;
     color: #F6F6F6;
@@ -17,7 +16,7 @@ body {
 }
 
 .apresentacao {
-    margin: 10% 15%;
+    padding: 8% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -82,4 +81,14 @@ body {
 .apresentacao__perfil {
     width: 488px;
     height: 550px;
+}
+
+.rodape {
+    padding: 24px;
+    color: black;
+    background-color: bisque;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
 }
